@@ -1,0 +1,5 @@
+.nvmrc
+# others
+.eslintrc.json
+dist/
+node_modules/

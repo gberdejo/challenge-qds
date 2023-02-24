@@ -1,0 +1,13 @@
+# build artefacts
+dist/*
+# node modules
+node_modules/*
+# others
+.eslintrc.js
+
+dist/
+node_modules/
+
+config/
+
+types/
